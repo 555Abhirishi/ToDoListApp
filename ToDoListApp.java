@@ -10,7 +10,7 @@ public class ToDoListApp {
             System.out.println("\nTo-Do List App");
             System.out.println("1. Add Task");
             System.out.println("2. Remove Task");
-            System.out.println("3. View Tasks");
+            System.out.println("3. View Tasks")
             System.out.println("4. Exit");
             System.out.print("Choose an option: ");
             
